@@ -2,9 +2,9 @@
 
 ```js
 const midudev = {
-  pronouns: "he" | "him",
-  ✨code: [Javascript, HTML, CSS, Python, C++, SQL, JSX],
-  tools: [Microsfot SQL, FireBase, Microsfot Serer, ZOHO, RunMyProcess]✨
+  Pronombres: "El" | "Ese Vato",
+  >< : [Javascript, HTML, CSS, Python, C++, SQL, JSX],
+  💻: [Microsfot SQL, FireBase, Microsfot Serer, ZOHO, RunMyProcess]
 }
 
 <!--
