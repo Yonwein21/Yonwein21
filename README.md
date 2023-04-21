@@ -3,13 +3,11 @@
 ```js
 const midudev = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Python, C++, SQL, JSX],
-  tools: [Microsfot SQL, FireBase, Microsfot Serer, ZOHO, RunMyProcess]
+  ✨code: [Javascript, HTML, CSS, Python, C++, SQL, JSX],
+  tools: [Microsfot SQL, FireBase, Microsfot Serer, ZOHO, RunMyProcess]✨
 }
 
 <!--
-**Yonwein21/Yonwein21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
